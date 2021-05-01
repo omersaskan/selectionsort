@@ -1,0 +1,13 @@
+C:\Users\omerf\RiderProjects\selection_sort\selection_sort\bin\Debug\netcoreapp3.1\selection_sort.exe
+C:\Users\omerf\RiderProjects\selection_sort\selection_sort\bin\Debug\netcoreapp3.1\selection_sort.deps.json
+C:\Users\omerf\RiderProjects\selection_sort\selection_sort\bin\Debug\netcoreapp3.1\selection_sort.runtimeconfig.json
+C:\Users\omerf\RiderProjects\selection_sort\selection_sort\bin\Debug\netcoreapp3.1\selection_sort.runtimeconfig.dev.json
+C:\Users\omerf\RiderProjects\selection_sort\selection_sort\bin\Debug\netcoreapp3.1\selection_sort.dll
+C:\Users\omerf\RiderProjects\selection_sort\selection_sort\bin\Debug\netcoreapp3.1\selection_sort.pdb
+C:\Users\omerf\RiderProjects\selection_sort\selection_sort\obj\Debug\netcoreapp3.1\selection_sort.csprojAssemblyReference.cache
+C:\Users\omerf\RiderProjects\selection_sort\selection_sort\obj\Debug\netcoreapp3.1\selection_sort.AssemblyInfoInputs.cache
+C:\Users\omerf\RiderProjects\selection_sort\selection_sort\obj\Debug\netcoreapp3.1\selection_sort.AssemblyInfo.cs
+C:\Users\omerf\RiderProjects\selection_sort\selection_sort\obj\Debug\netcoreapp3.1\selection_sort.csproj.CoreCompileInputs.cache
+C:\Users\omerf\RiderProjects\selection_sort\selection_sort\obj\Debug\netcoreapp3.1\selection_sort.dll
+C:\Users\omerf\RiderProjects\selection_sort\selection_sort\obj\Debug\netcoreapp3.1\selection_sort.pdb
+C:\Users\omerf\RiderProjects\selection_sort\selection_sort\obj\Debug\netcoreapp3.1\selection_sort.genruntimeconfig.cache
